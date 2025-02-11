@@ -2,6 +2,10 @@
 
 Automated bot for NodeGo platform with support for multiple accounts and proxy configurations (HTTP/SOCKS).
 
+## Registration
+
+1. Sign Up (https://app.nodego.ai/r/NODEB0C026D76E84)
+
 ## Features
 
 - Multi-account support
@@ -20,7 +24,7 @@ Automated bot for NodeGo platform with support for multiple accounts and proxy c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/airdropinsiders/NodeGo-Auto-Bot.git
+git clone https://github.com/airdropbomb/NodeGo-Auto-Bot.git
 cd NodeGo-Auto-Bot
 ```
 
